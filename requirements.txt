@@ -1,0 +1,21 @@
+# Core ML & Data
+tensorflow
+scikit-learn
+pandas
+numpy
+
+# Audio & Vision
+librosa
+opencv-python
+
+# MLOps
+dvc
+
+# API & Server
+fastapi
+uvicorn[standard]
+python-multipart
+
+# Frontend & Testing
+streamlit
+requests
