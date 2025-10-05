@@ -1,0 +1,10 @@
+artifact_location: file:///d:/Abdalrhman/Cat-Emotion-Detector/Catto-Lingo/notebooks/mlruns/0/models/m-c1b0017add9943abbf22d6d274fb1bbb/artifacts
+creation_timestamp: 1759619515540
+experiment_id: '0'
+last_updated_timestamp: 1759619538654
+model_id: m-c1b0017add9943abbf22d6d274fb1bbb
+model_type: null
+name: best_model
+source_run_id: 8750399e5eb14b2198de6782289a9cdc
+status: 2
+status_message: null

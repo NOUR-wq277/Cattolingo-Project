@@ -1,3 +1,2 @@
-*.h5 filter=lfs diff=lfs merge=lfs -text
-*.pkl filter=lfs diff=lfs merge=lfs -text
-*.pt filter=lfs diff=lfs merge=lfs -text
+اسم_ملف_الموديل_بالكامل_بامتداده filter=lfs diff=lfs merge=lfs -text
+Cat[[:space:]]Emotion[[:space:]]Detector[[:space:]]model.pth filter=lfs diff=lfs merge=lfs -text
