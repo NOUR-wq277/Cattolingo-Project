@@ -1,26 +1,35 @@
-# Core ML & DL
+# --- Frontend & GUI ---
+streamlit
+plotly
+matplotlib
+
+# --- Core ML & DL ---
 tensorflow
+torch>=1.13.1
+torchvision>=0.14.1
 scikit-learn
 pandas
 numpy
-torch>=1.13.1
-torchvision>=0.14.1
 Pillow
 
-# Audio & Vision
+# --- NLP (Transformers) ---
+transformers
+safetensors
+huggingface-hub
+
+# --- Audio & Vision ---
 librosa
+scipy
 opencv-python
 
-# MLOps
-dvc
-Pillow
-mlflow
-
-# API & Server
+# --- API & Server ---
 fastapi
 uvicorn[standard]
 python-multipart
 
-# Frontend & Testing
-streamlit
+# --- MLOps ---
+dvc
+mlflow
+
+# --- Testing ---
 requests
